@@ -497,10 +497,6 @@ as an academic project from University of Tsukuba, under the Apache License 2.0.
 - [devopsdays](https://devopsdays.org/)
 - [DevOps Enterprise Summit](https://events.itrevolution.com/)
 
-### Blogs
-
-- [Medium](https://medium.com/?tag=devops)
-
 ### DevOps Roadmap
 
 - [Roadmap.sh DevOps](https://roadmap.sh/devops): Basic understanding and what you should know to become a *DevOps* Engineer.
@@ -512,4 +508,4 @@ as an academic project from University of Tsukuba, under the Apache License 2.0.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/wmariuss/awesome-devops/blob/main/docs/contribution.md).
+Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/fadynabil10/awesome-devops-tools/blob/main/docs/contribution.md).
