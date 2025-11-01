@@ -1,9 +1,9 @@
 # Awesome DevOps
 
-[![Awesome DevOps](http://awesome-devops.xyz/assets/banner.png)](https://github.com/wmariuss/awesome-devops)
+[![Awesome DevOps](http://awesome-devops.xyz/assets/banner.png)](https://github.com/fadynabil10/awesome-devops)
 
-[![Deploy](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml)
-[![Links validator](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml)
+[![Deploy](https://github.com/fadynabil10/awesome-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/fadynabil10/awesome-devops/actions/workflows/deploy.yml)
+[![Links validator](https://github.com/fadynabil10/awesome-devops/actions/workflows/links-validator.yml/badge.svg)](https://github.com/fadynabil10/awesome-devops/actions/workflows/links-validator.yml)
 
 > A curated list of platforms, tools, practices and resources to create, improve DevOps culture and SRE Team in the organization.
 
